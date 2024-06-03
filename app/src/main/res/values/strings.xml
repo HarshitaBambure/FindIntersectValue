@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FindIntersectValue</string>
+    <string name="enter_array_2">enter Array 2</string>
+    <string name="enter_array_3">enter Array 3</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="enter_array_1">enter Array 1</string>
+</resources>
